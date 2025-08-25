@@ -1,0 +1,27 @@
+Guessing Game Log - Mon 25 Aug 2025 11:57:46 PM CEST
+Target number: 98
+====================
+Attempt 1: 50
+Attempt 2: 75
+Attempt 3: 85
+Attempt 4: 95
+Attempt 5: 99
+Attempt 6: 96
+Attempt 7: 98
+SUCCESS: Found number 98 in 7 attempts!
+====================
+Game ended at: Mon 25 Aug 2025 11:58:33 PM CEST
+
+New Game Session - Tue 26 Aug 2025 12:00:15 AM CEST
+====================
+Target number: 76
+====================
+Attempt 1: 50
+Attempt 2: 75
+Attempt 3: 85
+Attempt 4: 78
+Attempt 5: 77
+Attempt 6: 76
+SUCCESS: Found number 76 in 6 attempts!
+====================
+Game ended at: Tue 26 Aug 2025 12:00:50 AM CEST
